@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <img src="(https://github.com/user-attachments/assets/79f15759-c657-4eec-a972-a26315bb53f6)" width="100%" alt="Banner de Perfil" />
+</div>
+
+<img width="900" height="300" alt="Add a heading" src="https://github.com/user-attachments/assets/79f15759-c657-4eec-a972-a26315bb53f6" />
+
+
+
+
 
 <!--
 **AnaVictoriaGallardo/AnaVictoriaGallardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
