@@ -19,13 +19,12 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🌿 About Me
+### 🌻 About Me 🌻
 
-- 📍 **Location:** Córdoba, Argentina 🇦🇷
-- 🎓 **Education:** Systems Engineering Student @ UTN
-- 💻 **Working on:** Python &amp; Analytical Projects
-- 🎨 **Hobbies:** Pixel Art &amp; Crafts
-- 💬 **Ask me about:** Python, Data Analysis &amp; Logic
+- ⭐ **Location:** Córdoba, Argentina 🇦🇷
+- 🪐 **Education:** Systems Engineering Student @ UTN
+- 🌙 **Working on:** Python &amp; Personal Projects
+- ☀️ **Ask me about:** Python, Data Analysis &amp; Logic
 
 </td>
 <td width="45%" align="center" valign="middle">
