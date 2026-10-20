@@ -26,6 +26,18 @@
 - 🌙 **Working on:** Python &amp; Personal Projects
 - ☀️ **Ask me about:** Python, Data Analysis &amp; Logic
 
+<br/>
+
+### 💻 Main Project
+
+**🍯 My Little Kitchen**
+
+A project where the idea is to keep track of your kitchen inventory and check recipe availability according to it.
+
+**Technologies:** Python
+
+[View Project →](https://github.com/AnaVictoriaGallardo/Little-Kitchen-MVP)
+
 </td>
 <td width="45%" align="center" valign="middle">
 
