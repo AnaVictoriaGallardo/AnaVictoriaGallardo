@@ -9,7 +9,15 @@
 
 # ✦ Hi, I'm Victoria! ✦
 
-*Systems Engineering Student @ UTN Córdoba*
+
+<div align="center">
+  <marquee direction="left" scrollamount="4">
+    <span style="color:#87CEEB;">
+      ✦ Systems Engineering Student @ UTN Córdoba ✦
+    </span>
+  </marquee>
+</div>
+
 
 ─── ⋆⋅☆⋅⋆ ───
 
@@ -58,7 +66,15 @@ A project where the idea is to keep track of your kitchen inventory and check re
 
 ## ✦ My Skills &amp; Interests ✦
 
-*Exploring data, discovering patterns, and building with Python.*
+
+<div align="center">
+  <marquee direction="right" scrollamount="3">
+    <span style="color:#87CEEB;">
+      ✧ Exploring data, discovering patterns, and building with Python. ✧
+    </span>
+  </marquee>
+</div>
+
 
 <br/>
 
