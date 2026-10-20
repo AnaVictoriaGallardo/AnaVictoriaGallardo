@@ -52,6 +52,47 @@ A project where the idea is to keep track of your kitchen inventory and check re
 </table>
 
 
+---
+
+<div align="center">
+
+## ✦ My Skills &amp; Interests ✦
+
+*Exploring data, discovering patterns, and building with Python.*
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊
+**Data Science**
+
+<sub>Data exploration · Insights</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 📈
+**Data Analytics**
+
+<sub>Data analysis · Visualization</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🐍
+**Python**
+
+<sub>Programming · Automation</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 
 <!--
