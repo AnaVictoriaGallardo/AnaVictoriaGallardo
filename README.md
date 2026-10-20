@@ -11,12 +11,9 @@
 
 
 <div align="center">
-  <marquee direction="left" scrollamount="4">
-    <span style="color:#87CEEB;">
-      ✦ Systems Engineering Student @ UTN Córdoba ✦
-    </span>
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student+%40+UTN+C%C3%B3rdoba" alt="Systems Engineering Student @ UTN Córdoba" />
 </div>
+
 
 
 ─── ⋆⋅☆⋅⋆ ───
@@ -67,13 +64,11 @@ A project where the idea is to keep track of your kitchen inventory and check re
 ## ✦ My Skills &amp; Interests ✦
 
 
+
 <div align="center">
-  <marquee direction="right" scrollamount="3">
-    <span style="color:#87CEEB;">
-      ✧ Exploring data, discovering patterns, and building with Python. ✧
-    </span>
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Exploring+data%2C+discovering+patterns%2C+and+building+with+Python." alt="Exploring data, discovering patterns, and building with Python." />
 </div>
+
 
 
 <br/>
