@@ -5,6 +5,41 @@
 <img width="900" height="300" alt="Add a heading" src="https://github.com/user-attachments/assets/79f15759-c657-4eec-a972-a26315bb53f6" />
 
 
+<div align="center">
+
+# ✦ Hi, I'm Victoria! ✦
+
+*Systems Engineering Student @ UTN Córdoba*
+
+─── ⋆⋅☆⋅⋆ ───
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🌿 About Me
+
+- 📍 **Location:** Córdoba, Argentina 🇦🇷
+- 🎓 **Education:** Systems Engineering Student @ UTN
+- 💻 **Working on:** Python &amp; Analytical Projects
+- 🎨 **Hobbies:** Pixel Art &amp; Crafts
+- 💬 **Ask me about:** Python, Data Analysis &amp; Logic
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+
+
+![Pixel Artwork](https://raw.githubusercontent.com/AnaVictoriaGallardo/AnaVictoriaGallardo/main/descarga.gif)
+
+
+
+</td>
+</tr>
+</table>
+
 
 
 
